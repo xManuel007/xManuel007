@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Rios</h1>
+
 ## Professional Path
-I am studying Computational Systems Engineering and I'm a ✨ _React Native and React Developer✨_ .
+I am studying Computational Systems Engineering and I'm a _React Native and React Developer_ .
 
 
 - 🔭 I’m currently doing an Intership on [BrightCoders](http://www.brightcoders.com/)
