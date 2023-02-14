@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Rios</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xManuel007&label=Profile%20views&color=0e75b6&style=flat" alt="xManuel007" /> </p>
+
 ## Professional Path
 I am studying Computational Systems Engineering and I'm a _React Native and React Developer_ .
 
