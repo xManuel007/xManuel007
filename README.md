@@ -16,8 +16,6 @@ I am studying Computational Systems Engineering and I'm a _React Native and Reac
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/manuelerm/)
 
-[![Manuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=xManuel007)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Currently working on.. 🔭
 - React Native for iOS and Android
 - React JS
